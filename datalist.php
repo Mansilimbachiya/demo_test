@@ -2,7 +2,7 @@
 
 include 'dbcon.php';
 
-$sql = "SELECT * FROM ajaxcrud";
+$sql = "SELECT * FROM ajaxcrud1";
 
 $result = mysqli_query($con,$sql);
 
